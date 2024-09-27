@@ -1,0 +1,1 @@
+para rodar o codigo basta dar run no arquivo main.py
